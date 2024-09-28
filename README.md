@@ -1,3 +1,9 @@
+# To run the project run these 2 commands
+
+1. npm install
+2. ng serve => to run angular project
+3. json-server --watch db.json => to run local json server.
+
 # Angular Homes App
 - Install Angular if you don't have it installed
 
